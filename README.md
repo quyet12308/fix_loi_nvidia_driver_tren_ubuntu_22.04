@@ -32,10 +32,10 @@ thì nó trả về chỗ kết quả sau:
     ```
     ```cmd
     nvidia-settings:  version 510.47.03
-  The NVIDIA Settings tool.
+    The NVIDIA Settings tool.
 
-  This program is used to configure the NVIDIA Linux graphics driver.
-  For more detail, please see the nvidia-settings(1) man page.
+    This program is used to configure the NVIDIA Linux graphics driver.
+    For more detail, please see the nvidia-settings(1) man page.
 
 
     nvidia-settings [options]
