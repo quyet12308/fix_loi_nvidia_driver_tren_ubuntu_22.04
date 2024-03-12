@@ -69,6 +69,7 @@ No devices were found
 
 ## Thông tin liên hệ .
 - Nếu mọi người vào page này thông qua facebook thì có thể command trong chính bài viết đó ạ .
+- Hoặc có thể mở 1 issu trên git này
 - Còn nếu mọi người ẩn danh thì có thể liên hệ em qua email sau :
 ```cmd
 quyet12306@gmail.com
