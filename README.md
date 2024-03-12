@@ -1,0 +1,1 @@
+# fix_loi_nvidia_driver_tren_ubuntu_22.04
